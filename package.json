@@ -1,0 +1,15 @@
+{
+  "name": "firefox",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "parcel": "npx parcel src/index.html",
+    "build": "npx build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
